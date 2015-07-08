@@ -11,7 +11,7 @@ administrators are up to, so you would like to have an easy way to see when new
 extensions have been installed on the website.
 
 The "Latest Latest Extensions Installed" Joomla module helps the Super User keep track of the last plugins, 
-modules or components installed.
+modules or components already placed in the system.
 
 The module is developed with PHP 5.4 and MySQL 5.4.
 

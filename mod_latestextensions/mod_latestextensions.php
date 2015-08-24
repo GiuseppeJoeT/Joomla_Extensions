@@ -2,9 +2,9 @@
 /*------------------------------------------------------------------------
 # mod_latestextensions.php (module)
 # ------------------------------------------------------------------------
-# version		1.0.0
+# version	1.0.0
 # author    	Giuseppe Tiberi
-# @license 		http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL
+# @license 	http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL
 
 -------------------------------------------------------------------------
 */

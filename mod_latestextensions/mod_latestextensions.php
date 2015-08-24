@@ -4,7 +4,6 @@
 # ------------------------------------------------------------------------
 # version		1.0.0
 # author    	Giuseppe Tiberi
-# copyright 	Copyright (c) 2015 Verde Industry All rights reserved.
 # @license 		http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL
 
 -------------------------------------------------------------------------

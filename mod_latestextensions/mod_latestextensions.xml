@@ -44,8 +44,6 @@
 
 <!-- The "client" attribute indicates whether this module is a frontend module (site) or a backend module (administrator).-->
 
-<!-- The "author", "creationDate", "copyright", "license", "authorEmail" and "authorUrl" tags are pretty self-explanatory -->
-
 <!-- The "version" tag is important, each time you release a new version of your extension you should adjust this version number. You should use a three digit version number separated by full stops. Joomla! uses the version_compare PHP command -->
 
 <!-- The "description" tag is the text that the user will see when they initially install the module. -->
